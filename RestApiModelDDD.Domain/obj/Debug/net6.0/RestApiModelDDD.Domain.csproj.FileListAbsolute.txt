@@ -1,0 +1,12 @@
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\bin\Debug\net6.0\RestApiModelDDD.Domain.deps.json
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\bin\Debug\net6.0\RestApiModelDDD.Domain.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\bin\Debug\net6.0\RestApiModelDDD.Domain.pdb
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.AssemblyInfo.cs
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\refint\RestApiModelDDD.Domain.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\RestApiModelDDD.Domain.pdb
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain\obj\Debug\net6.0\ref\RestApiModelDDD.Domain.dll
