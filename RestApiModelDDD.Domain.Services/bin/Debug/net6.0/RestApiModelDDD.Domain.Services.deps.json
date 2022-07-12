@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RestApiModelDDD.Domain.Services/1.0.0": {
+        "dependencies": {
+          "RestApiModelDDD.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "RestApiModelDDD.Domain.Services.dll": {}
+        }
+      },
+      "RestApiModelDDD.Domain/1.0.0": {
+        "runtime": {
+          "RestApiModelDDD.Domain.dll": {}
+        }
+      },
+      "RestApiModelDDD.Domain.Core/1.0.0": {
+        "dependencies": {
+          "RestApiModelDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RestApiModelDDD.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestApiModelDDD.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestApiModelDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestApiModelDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

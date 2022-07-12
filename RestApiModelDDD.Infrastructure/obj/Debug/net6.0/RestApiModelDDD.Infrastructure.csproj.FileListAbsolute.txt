@@ -1,0 +1,5 @@
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\net6.0\RestApiModelDDD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\net6.0\RestApiModelDDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\net6.0\RestApiModelDDD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\net6.0\RestApiModelDDD.Infrastructure.AssemblyInfo.cs
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\net6.0\RestApiModelDDD.Infrastructure.csproj.CoreCompileInputs.cache

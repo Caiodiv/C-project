@@ -1,0 +1,17 @@
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.Services.deps.json
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.Services.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.Services.pdb
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.Core.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.Core.pdb
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\bin\Debug\net6.0\RestApiModelDDD.Domain.pdb
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.csproj.CopyComplete
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\refint\RestApiModelDDD.Domain.Services.dll
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\RestApiModelDDD.Domain.Services.pdb
+C:\Users\Sennit\source\repos\RestApiModeloDDD\RestApiModelDDD.Domain.Services\obj\Debug\net6.0\ref\RestApiModelDDD.Domain.Services.dll
